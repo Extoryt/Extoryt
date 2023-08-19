@@ -2,12 +2,12 @@
 <p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=blue&vCenter=true&center=true&width=460&lines=I+like+programming" </p> 
 <img align="right" alt="Coding" width="400px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-## <img src="https://media2.giphy.com/media/z9vxfIMzxbTaGwBkc5/giphy_s.gif?cid=ecf05e47cjnt33447pqnhksb17ve7x5zi6bsr2dagkvtdyvh&rid=giphy_s.gif&ct=s" height="40" width="40"> &nbsp; **About me**
+## <img src="https://media2.giphy.com/media/z9vxfIMzxbTaGwBkc5/giphy_s.gif?cid=ecf05e47cjnt33447pqnhksb17ve7x5zi6bsr2dagkvtdyvh&rid=giphy_s.gif&ct=s" height="40px" width="40px"> &nbsp; **About me**
 
 - 🔭 I’m currently working on **JavaScript projects**
 - 🌱 I’m currently learning **JavaScript**
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" height="40" width="40">  &nbsp;**Languages and Tools:**
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" height="40px" width="40px">  &nbsp;**Languages and Tools:**
 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -30,7 +30,7 @@
         width="40px" height="40px" alt="visual studio code" />
 </p>
 
-## <img src="https://www.competitionsciences.org/wp-content/uploads/2020/10/statistics-graph-illustration.jpg" height="40" width="40"> &nbsp;**GitHub Stats:** 
+## <img src="https://www.competitionsciences.org/wp-content/uploads/2020/10/statistics-graph-illustration.jpg" height="40px" width="40px"> &nbsp;**GitHub Stats:** 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=extoryt&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="extoryt" /></p>
 
