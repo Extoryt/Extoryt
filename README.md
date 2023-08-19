@@ -2,8 +2,6 @@
 <p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=blue&vCenter=true&center=true&width=460&lines=I+like+programming" </p> 
 <img align="right" alt="Coding" width="400px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=extoryt&label=Profile%20views&color=0e75b6&style=flat" alt="extoryt" /> </p>
-
 ## <img src="https://media2.giphy.com/media/z9vxfIMzxbTaGwBkc5/giphy_s.gif?cid=ecf05e47cjnt33447pqnhksb17ve7x5zi6bsr2dagkvtdyvh&rid=giphy_s.gif&ct=s" width="40"> &nbsp; **About me**
 
 - 🔭 I’m currently working on **JavaScript projects**
