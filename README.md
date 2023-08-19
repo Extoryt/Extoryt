@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Extoryt</h1>
 - 🌱 I’m currently learning **JavaScript**
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
