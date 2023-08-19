@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Extoryt</h1>
+<h3 align="center">I like programming</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=extoryt&label=Profile%20views&color=0e75b6&style=flat" alt="extoryt" /> </p>
+
 - 🌱 I’m currently learning **JavaScript**
 <img align="right" alt="Coding" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
@@ -11,3 +15,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=extoryt&show_icons=true&locale=en" alt="extoryt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=extoryt&" alt="extoryt" /></p>
+
