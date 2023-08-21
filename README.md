@@ -32,8 +32,12 @@
 
 ## <img src="https://www.competitionsciences.org/wp-content/uploads/2020/10/statistics-graph-illustration.jpg" height="40px" width="40px"> &nbsp;**GitHub Stats:** 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=extoryt&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="extoryt" /></p>
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=extoryt&layout=compact&theme=tokyonight"/> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=extoryt&show_icons=true&locale=en&theme=tokyonight" alt="extoryt" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=extoryt&show_icons=true&theme=tokyonight"/> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=extoryt&&theme=tokyonight" alt="extoryt" /></p>
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=extoryt&theme=tokyonight"/> </p>
+
+
+
+
