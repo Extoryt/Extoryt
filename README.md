@@ -14,20 +14,21 @@
             alt="bootstrap" width="40px" height="40px" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
         rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40px" height="40px" /> </a> <a href="https://www.w3.org/html/" target="_blank"
+            alt="css3" width="40px" height="40px" /> </a> <a href="https://www.w3schools.com/html/" target="_blank"
         rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40px" height="40px" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank" rel="noreferrer">
+            alt="html5" width="40px" height="40px" /> </a> <a
+        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40px" height="40px" /> </a> <a href="https://www.linux.org/" target="_blank"
         rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="40px" height="40px" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40px" height="40px" /> </a>
-    <img src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" alt="visual studio code"
-        width="40px" height="40px" alt="visual studio code" />
+            alt="python" width="40px" height="40px" /> </a> <a href="https://code.visualstudio.com/" target="_blank"
+        rel="noreferrer">
+        <img src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" alt="visual studio code"
+            width="40px" height="40px" /> </a>
 </p>
 
 ## <img src="https://www.competitionsciences.org/wp-content/uploads/2020/10/statistics-graph-illustration.jpg" height="40px" width="40px"> &nbsp;**GitHub Stats:** 
